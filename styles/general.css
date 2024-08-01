@@ -1,0 +1,30 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+.material-symbols-outlined {
+    font-variation-settings:
+        "FILL" 0,
+        "wght" 400,
+        "GRAD" 0,
+        "opsz" 24;
+}
+
+/*html {
+    scroll-behavior: smooth;
+} 
+*/
+
+p {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(242, 242, 242);
+}
